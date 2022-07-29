@@ -1,5 +1,6 @@
 from setuptools import setup
 
+
 setup(
     name="cointiger-sdk",
     version="0.1.2",
