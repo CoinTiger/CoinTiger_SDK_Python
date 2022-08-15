@@ -1,4 +1,4 @@
-## CoinTiger SDK
+## CoinTiger SDK V1
 cointiger sdk contains restful apis and websocket apis for cointiger exchange
 
 ## Installation
